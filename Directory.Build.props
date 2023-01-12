@@ -1,0 +1,7 @@
+<Project>
+    <PropertyGroup>
+        <TargetFrameworkVersion>net6.0</TargetFrameworkVersion>
+        <AzureFunctionsVersion>v4</AzureFunctionsVersion>
+        <MicrosoftNETSdkFunctionsVersion>4.1.1</MicrosoftNETSdkFunctionsVersion>
+    </PropertyGroup>
+</Project>

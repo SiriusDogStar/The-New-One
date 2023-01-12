@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "GithubActionsFunctionApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7025",
+      "launchBrowser": false
+    }
+  }
+}

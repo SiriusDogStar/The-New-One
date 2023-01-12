@@ -1,1 +1,1 @@
-# My Git Training
+# GithubActionsFunctionApp
